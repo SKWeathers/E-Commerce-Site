@@ -1,0 +1,23 @@
+@import url("content.css");
+
+#listing_info
+{
+	float:left;
+	width:595px;
+}
+
+
+#seller_info
+{
+	float:right;
+	width:145px;
+	background-color:#d3d3d3;
+	height:inherit;
+	margin-left:5px;
+	margin-top:5px;
+}
+
+#questions
+{
+	float:left;
+}

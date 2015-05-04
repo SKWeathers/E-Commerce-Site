@@ -1,0 +1,82 @@
+#container
+{
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#content
+{
+	width:745px;
+	background-color:beige;
+	float:left;
+	margin-top:5px;
+	line-height:1.25;
+}
+
+#banner_div
+{
+	text-align:right;
+}
+
+#banner_img
+{
+	height:100px;
+	width:900px;
+}
+
+#header_div
+{
+	height:30px;
+	background-color:#d3d3d3;
+}
+
+#sidebar_div
+{
+	width:150px;
+	margin-top:5px;
+	margin-right:5px;
+	background-color:#d3d3d3;
+	float:left;
+	height:inherit;
+}
+
+#error_text
+{
+	color:red;	
+	text-indent:20px;
+}
+
+a.h_link:link
+{
+	color:black;
+}
+
+a.h_link:visited
+{
+	color:black;
+}
+
+#error
+{
+	background_color:red;
+}
+
+#notice
+{
+	background-color:yellow;
+}
+
+#copyright
+{
+	text-align:right;
+	margin-top:5px;
+}
+
+#footer_div
+{
+	margin-top:50px;
+	height:30px;
+	width:800px;
+	float:left;
+}

@@ -1,0 +1,23 @@
+@import url("content.css");
+
+#info
+{
+	width:745px;
+}
+
+#profile_info
+{
+	width:365px;
+	height:150px;
+	float:left;
+	margin-right:5px;
+	margin-left:5px;
+	background-color:#d3d3d3;
+}
+
+#seller_info
+{
+	background-color:#d3d3d3;
+	width:365px;
+	height:150px;
+}

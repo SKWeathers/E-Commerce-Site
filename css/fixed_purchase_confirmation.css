@@ -1,0 +1,42 @@
+@import url("content.css");
+
+#listing_data
+{
+	background-color:#d3d3d3;
+	width:735px;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+#description
+{
+	width:395px;
+	margin-right:5px;
+	margin-left:5px;
+}
+
+#items
+{
+	width:330px;
+}
+
+#buyer_shipping
+{
+	background-color:#d3d3d3;
+	float:left;
+	width:365px;
+	height:150px;
+	margin-top:5px;
+	margin-right:5px;
+	margin-left:5px;
+}
+
+#seller_shipping
+{
+	background-color:#d3d3d3;
+	float:left;
+	width:365px;
+	height:150px;
+	margin-top:5px;
+	margin-right:5px;
+}
